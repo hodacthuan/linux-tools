@@ -35,3 +35,9 @@ Install redis-cli
 ```bash
 linux-tools/cli-tools/rediscli.sh
 ```
+
+Install kubelet kubeadm kubectl
+
+```bash
+linux-tools/k8s/kubenetes.sh
+```
