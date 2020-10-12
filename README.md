@@ -22,6 +22,14 @@ Install docker-compose
 linux-tools/docker/docker-compose.sh
 ```
 
+## K8S Ecosystem
+
+Install kubelet kubeadm kubectl
+
+```bash
+linux-tools/k8s/kubenetes.sh
+```
+
 ## CLI-Tools
 
 Install aws-cli
@@ -36,8 +44,3 @@ Install redis-cli
 linux-tools/cli-tools/rediscli.sh
 ```
 
-Install kubelet kubeadm kubectl
-
-```bash
-linux-tools/k8s/kubenetes.sh
-```
