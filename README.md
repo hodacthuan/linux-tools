@@ -5,7 +5,7 @@ This project includes all bash script to install tools on Linux system
 Clone project
 
 ```
-git clone 
+git clone https://github.com/hodacthuan/linux-tools.git
 ```
 
 ## Docker Ecosystem
@@ -13,13 +13,13 @@ git clone
 Install docker
 
 ```bash
-docker/docker.sh
+linux-tools/docker/docker.sh
 ```
 
 Install docker-compose
 
 ```bash
-docker/docker-compose.sh
+linux-tools/docker/docker-compose.sh
 ```
 
 ## CLI-Tools
@@ -27,11 +27,11 @@ docker/docker-compose.sh
 Install aws-cli
 
 ```bash
-cli-tools/awscli.sh
+linux-tools/cli-tools/awscli.sh
 ```
 
 Install redis-cli
 
 ```bash
-cli-tools/rediscli.sh
+linux-tools/cli-tools/rediscli.sh
 ```
